@@ -1,0 +1,54 @@
+Marouane Katfi
+Hay Ennour, Benguerir • 0603243113 • marouane.katfi96@gmail.com • linkedin.com/in/marouane-katfi-61363921b
+Software Developer
+A forward-thinking Software Developer with expertise in system-level programming (C/C++) and modern web technologies,
+including JavaScript, React, and TailwindCSS. Experienced in the full software development lifecycle, from concept to delivery,
+with a focus on building responsive, user-centered applications. Proficient in UI/UX design using Figma and experienced in
+audiovisual content creation, combining creativity, innovation, and precision. Skilled in project management, Git/GitHub
+collaboration, and delivering efficient, user-focused solutions.
+EDUCATION
+Common core at 1337 School in Computer Science
+Mohammed VI Polytechnic University - 1337 Coding School
+Ben Guerir • 2022 - Present
+The leading computer science training program in Morocco, part of the prestigious 42 Network, renowned for its innovative peer-
+to-peer learning model.
+Bachelors in Arabic private law
+universite des sciences juridiques economiques et sociales Cadi Ayyad a Marrakech
+Marrakech • 2016 - 2019
+Bachelor of Fundamental Studies in Legal and Political Sciences, Arabic private law section at the University of Legal, Economic
+and Social Sciences Cadi Ayyad in Marrakech.
+Baccalaureate in Physical Sciences
+Benguerir • 2015 - 2016
+Essalam High School
+CERTIFICATIONS
+Diplome Bureautique
+2021 - 2022
+Centre social à proximité benguerir
+certificate Reporter d'images audiovisuel
+2021 - 2022
+Institut Specialise De Technologie Appliquee Benguerir
+Certificate in rhamna youth platform
+2020 - 2021
+capacity building program for young people in rhamna
+PROJECTS
+Inception
+Developed a system administration project using Docker to virtualize various images in a self-configured virtual machine.
+IRC Project
+Is a group project that makes us recreate an IRC server (from scratch, in C++) The server follows the RFC 2812 specification and
+can therefore be used with existing IRC clients
+Ft_Transcendance
+A dynamic web application for a ping-pong game using pure JavaScript The project features real-time game play and smooth
+animations
+SKILLS
+• C ​&​&​​C+​+​
+• Docker ​/​​Docker ​Compose
+• Figma ​design
+• Git ​&​​Github
+• HTML ​&​​CSS
+• JavaScript
+• Problem ​solving
+• React.​js
+• Responsive ​Web
+• TailwindCSS
+• Team ​spirit
+• Video ​Editor/​Montage ​vidé​o
