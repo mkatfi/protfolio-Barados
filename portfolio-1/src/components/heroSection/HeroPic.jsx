@@ -3,6 +3,7 @@ import { fadeIn } from "../../framerMotion/variants";
 import { PiHexagonThin } from "react-icons/pi";
 
 const HeroPic = () => {
+  const pho = "public/images/Figure 3.png";
   return (
     <motion.div
       variants={fadeIn("left", 0.2)}
@@ -12,7 +13,7 @@ const HeroPic = () => {
       className=" h-full flex items-center justify-center "
     >
       <img
-        src="public/images/Figure 3.png"
+        src = {pho}
         alt="Marouane Katfi"
         className="max-h-[450px] w-auto"
       />
