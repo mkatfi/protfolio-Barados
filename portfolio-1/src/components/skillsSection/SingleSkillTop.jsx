@@ -1,6 +1,6 @@
-// import React from "react";
+import React from "react";
 
-const SingleSkill = ({ imgSvg, text }) => {
+const SingleSkillTop = ({ imgSvg, text }) => {
   return (
     <div className="hover:-translate-y-10 transition-all duration-500">
       <div className="flex flex-col items-center gap-2 relative">
@@ -14,4 +14,4 @@ const SingleSkill = ({ imgSvg, text }) => {
   );
 };
 
-export default SingleSkill;
+export default SingleSkillTop;

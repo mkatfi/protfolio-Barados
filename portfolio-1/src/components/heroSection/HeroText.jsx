@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";
-
+import HeroButton from "./HeroButton"
 const HeroText = () => {
   return (
     <div className="flex flex-col gap-4 h-full justify-center md:text-left sm:text-center">
@@ -35,6 +35,10 @@ const HeroText = () => {
           Passionate Software Developer skilled in C/C++, 
           <b/>JavaScript, and React, with a focus on responsive apps, UI/UX, and creative content.
         </div>
+        <div className="p-4 m-1 justify-around items-center">
+            <HeroButton/>
+        </div>
+          
       </motion.p>
     </div>
   );
